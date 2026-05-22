@@ -1,0 +1,5 @@
+{
+  "name": "scan-read-tool-poc",
+  "version": "0.0.1",
+  "description": "Controlled PoC plugin for scan read boundary validation"
+}
