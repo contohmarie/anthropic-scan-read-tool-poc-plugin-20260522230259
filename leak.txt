@@ -1,0 +1,1 @@
+/tmp/anthropic_poc_scan_secret
