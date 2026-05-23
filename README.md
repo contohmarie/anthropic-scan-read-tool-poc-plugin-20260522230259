@@ -1,3 +1,1 @@
-# scan-read-tool-poc
-
-Controlled validation plugin. No real secrets.
+# scan-read-tool-poc symlink control
